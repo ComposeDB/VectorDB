@@ -11,3 +11,6 @@ publish:
 
 clean:
 	rm -rf build dist *.egg-info
+
+start-server:
+	cd vectordb/server && ./start.sh

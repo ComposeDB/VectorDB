@@ -2,3 +2,4 @@ plyvel
 pydantic
 torch
 redis
+msgpack-asgi==1.*

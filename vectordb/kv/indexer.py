@@ -1,7 +1,6 @@
 import faiss
 from numpy.typing import ArrayLike
 
-
 class VectorIndexer(object):
     def __init__(self) -> None:
         super().__init__()
